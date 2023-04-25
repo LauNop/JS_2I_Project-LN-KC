@@ -1,0 +1,16 @@
+{
+  "name": "project-js-2i-ln-kc",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pre-commit": "^1.2.2",
+    "ramda": "^0.29.0",
+    "xo": "^0.54.1"
+  }
+}
