@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jstat": "^1.9.6",
     "pre-commit": "^1.2.2",
     "ramda": "^0.29.0",
     "xo": "^0.54.1"
